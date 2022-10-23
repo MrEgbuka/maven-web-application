@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.53.211.42:8181/repository/tesla-fe-releases/</url>
+	      <url>http://63.33.189.215:4000/repository/ebay-bts/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
